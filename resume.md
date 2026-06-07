@@ -1,7 +1,7 @@
 SISHIR GOTTUMUKKALA
 Software Engineer | Data Analyst | AI Developer | Game Developer
 
-Michigan, USA | +1 (989) 817-6636 | [sishirgottumukkala@gmail.com](mailto:sishirgottumukkala@gmail.com)
+Michigan, USA | +1 (989) 817-6636 | [sishirgottumukkala@gmail.com](mailto:gsishir2004@gmail.com)
 
 LinkedIn: linkedin.com/in/sishir-gottumukkala-9a7a43235
 
@@ -13,10 +13,26 @@ Portfolio: sishir-portfolio-eta.vercel.app
 
 PROFESSIONAL SUMMARY
 
-Computer Science graduate from Central Michigan University with professional experience in software development, data analytics, and business intelligence. Developed and deployed AI-powered applications, analytics dashboards, and game development projects using Python, JavaScript, SQL, Power BI, and modern web technologies. Combines software engineering, analytical thinking, and problem-solving skills to deliver practical and user-focused solutions.
+Computer Science graduate from Central Michigan University with a strong foundation in software development, data analytics, artificial intelligence, and game development. Built and deployed AI-powered applications, analytics dashboards, and interactive game projects using Python, JavaScript, SQL, Power BI, and modern web technologies. Combines technical problem-solving, analytical thinking, and hands-on project experience to develop practical, user-focused solutions across software, data, and gaming domains.
+
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+EDUCATION
 
+Central Michigan University
+
+Bachelor of Science in Computer Science
+
+Minor: Game Design Thinking
+
+Graduated: May 2026
+
+GPA: 3.52 / 4.00
+
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 TECHNICAL SKILLS
 
 Programming Languages
@@ -28,8 +44,9 @@ Power BI • Pandas • NumPy • Scikit-Learn • Machine Learning • Generati
 Tools & Platforms
 Git • GitHub • Vercel • VS Code • Excel • Jupyter Notebook
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 PROFESSIONAL EXPERIENCE
 
 Delta Dental of Michigan | AppDev Intern
@@ -57,6 +74,8 @@ Central Michigan University | Computer Science Grader
 • Assisted students in strengthening programming, debugging, and problem-solving skills.
 
 • Evaluated code quality and provided constructive technical feedback.
+
+
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -88,8 +107,9 @@ AI Quest Generator
 
 • Implemented dynamic content generation based on genre, quest type, and difficulty.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 GAME DEVELOPMENT PROJECTS
 
 Rise of India
@@ -104,19 +124,7 @@ Shellbound
 
 • Published on Itch.io.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-EDUCATION
-
-Central Michigan University
-
-Bachelor of Science in Computer Science
-
-Minor: Game Design Thinking
-
-Graduated: May 2026
-
-GPA: 3.52 / 4.00
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
