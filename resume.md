@@ -1,38 +1,38 @@
 SISHIR GOTTUMUKKALA
+Software Engineer | Data Analyst | AI Developer | Game Developer
 
-Email: [sishirgottumukkala@gmail.com](mailto:sishirgottumukkala@gmail.com) | Phone: +1 (989) 817-6636
+Michigan, USA | +1 (989) 817-6636 | [sishirgottumukkala@gmail.com](mailto:sishirgottumukkala@gmail.com)
 
-LinkedIn: https://linkedin.com/in/sishir-gottumukkala-9a7a43235
+LinkedIn: linkedin.com/in/sishir-gottumukkala-9a7a43235
 
-GitHub: https://github.com/gsishir1104
+GitHub: github.com/gsishir1104
 
-Portfolio: https://sishir-portfolio-eta.vercel.app
+Portfolio: sishir-portfolio-eta.vercel.app
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 PROFESSIONAL SUMMARY
 
-Computer Science student at Central Michigan University with internship experience in software development, data analytics, business intelligence, and web application development. Proficient in Python, JavaScript, SQL, HTML, CSS, Power BI, and Generative AI applications. Experienced in building and deploying data-driven and AI-powered projects using modern development tools. Seeking entry-level Software Developer, Data Analyst, Generative AI, or Game Development opportunities.
+Computer Science graduate from Central Michigan University with professional experience in software development, data analytics, and business intelligence. Developed and deployed AI-powered applications, analytics dashboards, and game development projects using Python, JavaScript, SQL, Power BI, and modern web technologies. Combines software engineering, analytical thinking, and problem-solving skills to deliver practical and user-focused solutions.
 
-EDUCATION
-
-Central Michigan University
-Bachelor of Science in Computer Science
-Minor: Game Design Thinking
-Expected Graduation: May 2026
-GPA: 3.52/4.00
-
-Relevant Coursework: Data Structures, Algorithms, Database Systems, Software Engineering, Operating Systems
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 TECHNICAL SKILLS
 
-Programming Languages: Python, JavaScript, SQL, HTML, CSS
+Programming Languages
+Python • JavaScript • SQL • HTML • CSS
 
-Data Analytics & AI: Power BI, Pandas, NumPy, Scikit-Learn, Data Visualization, Business Intelligence, Machine Learning, Generative AI, Prompt Engineering
+Data Analytics & AI
+Power BI • Pandas • NumPy • Scikit-Learn • Machine Learning • Generative AI • Data Visualization • Business Intelligence
 
-Tools & Platforms: Git, GitHub, Vercel, VS Code, Excel, Jupyter Notebook
+Tools & Platforms
+Git • GitHub • Vercel • VS Code • Excel • Jupyter Notebook
 
-EXPERIENCE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-AppDev Intern | Delta Dental of Michigan
+PROFESSIONAL EXPERIENCE
+
+Delta Dental of Michigan | AppDev Intern
 July 2024 – August 2024
 
 • Developed workflow solutions using HTML, CSS, SQL, and backend integrations.
@@ -41,7 +41,7 @@ July 2024 – August 2024
 
 • Improved user experience and workflow efficiency through interface enhancements and process optimization.
 
-Data Analytics Intern | Dewpoint
+Dewpoint | Data Analytics Intern
 May 2024 – June 2024
 
 • Developed Power BI dashboards and workforce analytics visualizations for business reporting.
@@ -50,7 +50,7 @@ May 2024 – June 2024
 
 • Presented data-driven findings to support business decision-making.
 
-Computer Science Grader | Central Michigan University
+Central Michigan University | Computer Science Grader
 
 • Reviewed and debugged 100+ Java and C programming assignments.
 
@@ -58,7 +58,9 @@ Computer Science Grader | Central Michigan University
 
 • Evaluated code quality and provided constructive technical feedback.
 
-PROJECTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FEATURED PROJECTS
 
 AI Resume Analyzer
 
@@ -74,15 +76,11 @@ Job Market Intelligence Dashboard
 
 • Visualized demand across Software Development, Data Analytics, Artificial Intelligence, Web Development, and Game Development roles.
 
-• Created data-driven reports to support career and market research.
-
 Player Retention Predictor
 
 • Developed a game analytics dashboard focused on player retention and churn analysis.
 
 • Simulated predictive retention metrics and interactive reporting features.
-
-• Applied data analysis concepts to evaluate player engagement and behavioral trends.
 
 AI Quest Generator
 
@@ -90,25 +88,42 @@ AI Quest Generator
 
 • Implemented dynamic content generation based on genre, quest type, and difficulty.
 
-• Designed and deployed a live web application using GitHub and Vercel.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Additional Game Development Projects
+GAME DEVELOPMENT PROJECTS
 
-• Rise of India – Developed a turn-based strategy and decision-based game focused on player choice, resource management, and historical progression mechanics. Published on Itch.io.
+Rise of India
 
-• Shellbound – Developed a fast-paced game jam project featuring destructive progression mechanics, interactive gameplay systems, and rapid prototyping. Published on Itch.io.
+• Developed a turn-based strategy and decision-based game focused on player choice, resource management, and historical progression mechanics.
 
+• Published on Itch.io.
+
+Shellbound
+
+• Developed a fast-paced game jam project featuring destructive progression mechanics, interactive gameplay systems, and rapid prototyping.
+
+• Published on Itch.io.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+EDUCATION
+
+Central Michigan University
+
+Bachelor of Science in Computer Science
+
+Minor: Game Design Thinking
+
+Graduated: May 2026
+
+GPA: 3.52 / 4.00
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 LEADERSHIP & ACTIVITIES
 
 Adobe Ambassador
 
-• Participated in technology-focused student engagement and leadership activities.
-
 Adobe Collaboration Lab Participant
 
-• Collaborated on innovation and technology learning initiatives.
-
 Vice President, Chess Club
-
-• Supported club leadership, event planning, and student engagement activities.
